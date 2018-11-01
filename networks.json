@@ -1,4 +1,21 @@
 [{
+  "name": "Local-Testnet",
+  "description": "The FPT Testnet",
+  "owner": "The EOS community",
+  "chainId": "cf057bbfb72640471fd910bcb67639c22df9f92470936cddc1ade0e2f2e7dc4f",
+  "type": "testnet",
+  "prefix":"EOS",
+  "network": "eosio",
+  "endpoints": [     
+    {
+      "name": "localtestnet",
+      "protocol": "http",
+      "port": 7777,
+      "url": "127.0.0.1",
+      "description": "API Node"
+    }
+  ]
+  },{
     "name": "FPT Testnet",
     "description": "The FPT Testnet",
     "owner": "The EOS community",
