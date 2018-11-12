@@ -10,7 +10,7 @@
     {
       "name": "localtestnet",
       "protocol": "http",
-      "port": 7777,
+      "port": 5555,
       "url": "127.0.0.1",
       "description": ""
     }
