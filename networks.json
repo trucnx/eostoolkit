@@ -8,10 +8,10 @@
   "network": "eos",
   "endpoints": [     
     {
-      "name": "localtestnet",
+      "name": "eos-testnet",
       "protocol": "http",
-      "port": 5555,
-      "url": "127.0.0.1",
+      "port": 7055,
+      "url": "localhost",
       "description": ""
     }
   ]
